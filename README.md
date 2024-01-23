@@ -15,7 +15,8 @@
 
 ## Tutorial
 
-![repository-open-graph-template](https://github.com/HJK-Studio/Nuclear-Nemesis/assets/157167369/bcdaf2b6-5db9-4c26-86d4-223c4c2904ec)
+![Tut](https://github.com/HJK-Studio/Nuclear-Nemesis/assets/157167369/f313a489-225f-46d5-ada4-0543c7106d6b)
+
 
 - 📐 Since you have limited resources after the war, you only have two bullets to kill the two enemies, the power to shoot your bullets is also limited, and the turrets only move together with some angle constraint.
 - 🔋 Use the power wisely because if you give little power to the turret, its bullet may not reach the desired enemy, so you have to provide each turret sufficient power to kill both enemies, and you can only aim using the green turret.
